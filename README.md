@@ -17,12 +17,6 @@ Accumulative GPA:       	3.1(Very Good)
 Sep. 2004 – Jun. 2016 Mostafa Kamel Integrated Experimental Language School
 Sep. 2016 – Jun. 2018  El Shahed Osama Ahmed Ismael Language School
 
-Graduation Project:-
- 
-Sep. 2020 – Jul. 2020 Graduation Project: Covid19 Tracking System Android Application
-
-Description: Tracking System for corona virus which aims to get all contact people over the last 14 days to warning them to stay at home or go to the hospital if any one who contact them in the same place has the virus Using get Mac Address by  Bluetooth .
-Grade: Excellent (A)
 
 Software Technical Skills:-
  
