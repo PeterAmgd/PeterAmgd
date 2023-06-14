@@ -20,8 +20,6 @@ Strong Knowledge: Offline Database [Room]
 
 Database: Firebase FireStore , Firebase Realtime Database , SQL
 
-Frameworks: Android Studio , Visual Studio / Visual Studio Code , NetBeans 
-
 Interpersonal Skills	:-
 
 Personal Skill: Good Debugger - Self Learner
@@ -29,5 +27,4 @@ Personal Skill: Good Debugger - Self Learner
 Personal Skill:
 Languages: English (Very Good) 
 
-Birth Date: 20 / 3 / 2000
 
